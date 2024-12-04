@@ -1,0 +1,1 @@
+print("bunty ki qismat ")
